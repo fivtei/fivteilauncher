@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://raw.githubusercontent.com/fivtei/fivteilauncher/gh-pages/News.xml",
+  "rss": "https://firebasestorage.googleapis.com/v0/b/launcher-ccb71.appspot.com/o/News.xml?alt=media&token=fb8d0661-1f80-4769-b465-aa061f79d432",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
