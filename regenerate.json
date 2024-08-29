@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://firebasestorage.googleapis.com/v0/b/launcher-ccb71.appspot.com/o/News.xml?alt=media&token=fb8d0661-1f80-4769-b465-aa061f79d432",
+  "rss": "https://raw.githubusercontent.com/fivtei/fivteilauncher/main/News.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -11,7 +11,7 @@
       "id": "MundoPVP-Modpack-1.18.2",
       "name": "MundoPVP-Modpack (Minecraft 1.18.2)",
       "description": "MundoPVP-Modpack Running Minecraft 1.18.2 (Forge v40.2.21)",
-      "icon": "https://fivtei.github.io/fivteilauncher/icon2.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/launcher-ccb71.appspot.com/o/icon.png?alt=media&token=c4b28aea-5194-454e-82f3-872c9a05b29f",
       "version": "1.0.0",
       "address": "play.mundopvp.com",
       "minecraftVersion": "1.18.2",
@@ -418,7 +418,7 @@
       "id": "MundoPVP-Vanilla-1.18.2",
       "name": "MundoPVP-Vanilla (Minecraft 1.18.2)",
       "description": "MundoPVP-Vanilla Running Minecraft 1.18.2 (Forge v40.2.21)",
-      "icon": "https://fivtei.github.io/fivteilauncher/icon.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/launcher-ccb71.appspot.com/o/icon.png?alt=media&token=c4b28aea-5194-454e-82f3-872c9a05b29f",
       "version": "1.0.0",
       "address": "play.mundopvp.com",
       "minecraftVersion": "1.18.2",
