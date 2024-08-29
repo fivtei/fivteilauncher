@@ -11,7 +11,7 @@
       "id": "MundoPVP-Modpack-1.18.2",
       "name": "MundoPVP-Modpack (Minecraft 1.18.2)",
       "description": "MundoPVP-Modpack Running Minecraft 1.18.2 (Forge v40.2.21)",
-      "icon": null,
+      "icon": "https://fivtei.github.io/fivteilauncher/icon.png",
       "version": "1.0.0",
       "address": "play.mundopvp.com",
       "minecraftVersion": "1.18.2",
@@ -20,7 +20,7 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": true,
       "modules": [
         {
@@ -418,7 +418,7 @@
       "id": "MundoPVP-Vanilla-1.18.2",
       "name": "MundoPVP-Vanilla (Minecraft 1.18.2)",
       "description": "MundoPVP-Vanilla Running Minecraft 1.18.2 (Forge v40.2.21)",
-      "icon": null,
+      "icon": "https://fivtei.github.io/fivteilauncher/icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.18.2",
@@ -427,8 +427,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.18.2-40.2.21",
