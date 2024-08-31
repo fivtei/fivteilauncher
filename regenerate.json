@@ -411,6 +411,668 @@
               }
             }
           ]
+        },
+        {
+          "id": "net.geforcemods:securitycraft:1.9.10@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4022515,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/[1.18.2]%20SecurityCraft%20v1.9.10.jar",
+            "MD5": "632f5cfa3da9ec40c745fa39ab9cd7d6"
+          }
+        },
+        {
+          "id": "com.mgen256.al:additional_lights:2.1.4@jar",
+          "name": "Additional Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 527435,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/additional_lights-1.18.2-2.1.4.jar",
+            "MD5": "45f421ae6a65e159226953e5eba50314"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:alexsmobs:1.18.6@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22436427,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/alexsmobs-1.18.6.jar",
+            "MD5": "055b233750ba11d528e4c23a1ad6d179"
+          }
+        },
+        {
+          "id": "dev.denismasterherobrine:angelring:2.0.4@jar",
+          "name": "Angel Ring 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 113971,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/AngelRing2-1.18.2-2.0.4.jar",
+            "MD5": "f959725635ee78e08c2040c035de70d2"
+          }
+        },
+        {
+          "id": "realmayus.aquatictorches:aquatictorches:1.1.0@jar",
+          "name": "Aquatic Torches",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17844,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/aquatictorches-1.18-1.1.0.jar",
+            "MD5": "bd4875a012c8bc203d1038f9cc56684a"
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:4.12.94@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 552356,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/architectury-4.12.94-forge.jar",
+            "MD5": "2b4ce34ff2c095c723b8521ac7ecfd3e"
+          }
+        },
+        {
+          "id": "de.mennomax:astikorcarts:1.1.2@jar",
+          "name": "AstikorCarts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 261090,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/astikorcarts-1.18.2-1.1.2.jar",
+            "MD5": "3cdbc29b2d810d06daaaec7a6eb3f76a"
+          }
+        },
+        {
+          "id": "com.jtorleonstudios:awesomedungeonocean:3.2.0@jar",
+          "name": "Awesome dungeon edition ocean",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 293294,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/awesomedungeonocean-forge-1.18.2-3.3.0.jar",
+            "MD5": "e8f270f76ad972f2b1ebcc25b0de551d"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:3.2.6@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 622515,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/balm-3.2.6.jar",
+            "MD5": "2c88b15b950317917fe64980267d579a"
+          }
+        },
+        {
+          "id": "dev.itsmeow:betteranimalsplus:1.18.2-11.0.10@jar",
+          "name": "Better Animals Plus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2164141,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/betteranimalsplus-1.18.2-11.0.10-forge.jar",
+            "MD5": "1ac2983f2e1cdc4552bbcffb29506ecc"
+          }
+        },
+        {
+          "id": "net.mcreator:boatrocked:1.0.0@jar",
+          "name": "Boatrocked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 45041,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/BoatRocked1.18.2.jar",
+            "MD5": "94098dd394aa5755bf0d7985a857c416"
+          }
+        },
+        {
+          "id": "com.natamus:bottleyourxp:3.2@jar",
+          "name": "Bottle Your Xp",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 45898,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/bottleyourxp-1.18.2-3.2.jar",
+            "MD5": "fbb5da7bc36cd1fde528ceaacf1513c5"
+          }
+        },
+        {
+          "id": "top.theillusivec4:caelus:1.18.1-3.0.0.2@jar",
+          "name": "Caelus API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37157,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/caelus-forge-1.18.1-3.0.0.2.jar",
+            "MD5": "56e03137ff67264ebdab9f40cc191e41"
+          }
+        },
+        {
+          "id": "de.maxhenkel:camera:1.18.2-1.0.6@jar",
+          "name": "Camera Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 291005,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/camera-1.18.2-1.0.6.jar",
+            "MD5": "469e98d14e02cac37764ac6f494d0348"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre35@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2181196,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/cfm-7.0.0-pre35-1.18.2.jar",
+            "MD5": "95542a00ac896e266ad04b23ebd8c468"
+          }
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:0.6.1@jar",
+          "name": "Chat Heads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27442,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/optionalon/chat_heads-0.6.1-forge-1.18.2.jar",
+            "MD5": "f32370349e4569493b9ff13043b39c0d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:1.11.3@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 503137,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/citadel-1.11.3-1.18.2.jar",
+            "MD5": "fffef0755c3ac225d55b91357f2d9823"
+          }
+        },
+        {
+          "id": "com.cyanogen:experienceobelisk:2.0.4@jar",
+          "name": "Cognition",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 195811,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/Cognition-v2.0.4-1.18.2.jar",
+            "MD5": "3d4f31996e726647e8f7a1df2f70fb5d"
+          }
+        },
+        {
+          "id": "com.natamus:collective:7.7@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 529482,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/collective-1.18.2-7.7.jar",
+            "MD5": "e9620dfcd0a4a8d62c8e9970239b133a"
+          }
+        },
+        {
+          "id": "de.maxhenkel:corpse:1.18.2-1.0.1@jar",
+          "name": "Corpse",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 219501,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/corpse-1.18.2-1.0.1.jar",
+            "MD5": "a137869bf9f6084e164d1fb3215a19a5"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:1.18.2-5.0.9.2@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 277670,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/curios-forge-1.18.2-5.0.9.2.jar",
+            "MD5": "ff272c51d7d3a5cf4a109bde2cf3f8ee"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curiouselytra:1.18.2-5.0.2.0@jar",
+          "name": "Curious Elytra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 46753,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/curiouselytra-forge-1.18.2-5.0.2.0.jar",
+            "MD5": "540641971ca909c27fd703e6186af69e"
+          }
+        },
+        {
+          "id": "generated.forgemod:deeper_oceans:1.0.1@jar",
+          "name": "Deeper Oceans",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9478,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/deeper_oceans-1.18.2-v1-0-1.jar",
+            "MD5": "02e2f31ba6179385f41732ea4e00764d"
+          }
+        },
+        {
+          "id": "chappie.displaycase:display_case:1.0.3@jar",
+          "name": "Display Case Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44957,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/DisplayCase-forge-1.18.2-1.0.3.jar",
+            "MD5": "26c65e9e894248af16072792f89947d9"
+          }
+        },
+        {
+          "id": "net.mcreator:enlightened_end:5.0.10@jar",
+          "name": "Enlightend",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16909463,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/enlightend-5.0.10-1.18.2.jar",
+            "MD5": "a39b749df4b6e9c40916ace9f1905a32"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.6.1@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 59875,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/entityculling-forge-1.6.1-mc1.18.2.jar",
+            "MD5": "3145e53a4f8c39df16f1e53ab23c866b"
+          }
+        },
+        {
+          "id": "fr.raksrinana:fallingtree:3.5.4@jar",
+          "name": "FallingTree",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 361417,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/FallingTree-1.18.2-3.5.4.jar",
+            "MD5": "19a160de2cee16dd4d73f4b80fb666a9"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:4.2.2@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116626,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/ferritecore-4.2.2-forge.jar",
+            "MD5": "ea8c0bfc697a73b0d1886e43a1a5a282"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:framework:0.4.3@jar",
+          "name": "Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 117978,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/framework-forge-1.18.2-0.4.3.jar",
+            "MD5": "03e774b0e66fea8435809a07cc87afe8"
+          }
+        },
+        {
+          "id": "net.sonmok14:fromtheshadows:1.82@jar",
+          "name": "From the shadows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2161829,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/fromtheshadows-1.82.jar",
+            "MD5": "f53c3acaf3143e98af80f0ebc3747548"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib3:3.0.56@jar",
+          "name": "GeckoLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2927523,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/geckolib-forge-1.18-3.0.56.jar",
+            "MD5": "a0586e7d0d3c9daedfb381ec69b44541"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:goblintraders:1.8.0@jar",
+          "name": "Goblin Traders",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439283,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/goblintraders-1.8.0-1.18.2.jar",
+            "MD5": "8c4fed34208f865641efae6aabb202cc"
+          }
+        },
+        {
+          "id": "com.natamus:healingcampfire:5.2@jar",
+          "name": "Healing Campfire",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50711,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/healingcampfire-1.18.2-5.2.jar",
+            "MD5": "57abb269746597ea6fb0d9972a654b75"
+          }
+        },
+        {
+          "id": "io.github.ohponopono.hopobm:hopo:1.1.3@jar",
+          "name": "HopoBetterMineshaft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 781169,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/HopoBetterMineshaft-1.18.2-1.1.3b.jar",
+            "MD5": "85a33d25ec4e9fde4c045afffbcbe75f"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:10.2.1.1005@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1085640,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/optionalon/jei-1.18.2-forge-10.2.1.1005.jar",
+            "MD5": "2ca8e4f60a1f0ff78838a93f5fb8f697"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.blackapple769:justenoughdrugz:1.1.9@jar",
+          "name": "Just Enough Drugz",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 536099,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/JustEnoughDrugz1.18.2-1.1.9.jar",
+            "MD5": "7d641cb817f03b8795949dedd2d8a1ff"
+          }
+        },
+        {
+          "id": "com.jtorleonstudios:libraryferret:4.0.0@jar",
+          "name": "Library ferret",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 190283,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/libraryferret-forge-1.18.2-4.0.0.jar",
+            "MD5": "1fb3674f47bb6fcd0d7f82bf3d42cf51"
+          }
+        },
+        {
+          "id": "com.mcwbridges.kikoz:mcwbridges:2.1.0@jar",
+          "name": "Macaw's Bridges",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 656698,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/mcw-bridges-2.1.0-mc1.18.2forge.jar",
+            "MD5": "72b4bbe610ccf817faecf1b959730de5"
+          }
+        },
+        {
+          "id": "com.mcwpaths.kikoz:mcwpaths:1.0.5@jar",
+          "name": "Macaw's Paths and Pavings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 544624,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/mcw-paths-1.0.5-1.18.2forge.jar",
+            "MD5": "2208b97339af8e7861ab14c58db6d8c4"
+          }
+        },
+        {
+          "id": "com.mcwroofs.kikoz:mcwroofs:2.3.1@jar",
+          "name": "Macaw's Roofs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1696413,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/mcw-roofs-2.3.1-mc1.18.2forge.jar",
+            "MD5": "4cfc0ad607a40f90a96e35e6c4022897"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.0.0@jar",
+          "name": "Memory Leak Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155597,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/memoryleakfix-forge-1.17+-1.0.0.jar",
+            "MD5": "ebca35f761de545a36629bb2fafc09c6"
+          }
+        },
+        {
+          "id": "tfar.mobcatcher:mobcatcher:1.18.2-4.0.1@jar",
+          "name": "Mob Catcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32979,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/mobcatcher-1.18.2-4.0.1.jar",
+            "MD5": "8514791558b377fd1054b3a43fbb0571"
+          }
+        },
+        {
+          "id": "de.melanx:morevanillaarmor:1.18.2-3.1.2@jar",
+          "name": "MoreVanillaArmor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 228239,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/MoreVanillaArmor-1.18.2-3.1.2.jar",
+            "MD5": "cd0955727f9a17ea2ec630ee22c6f475"
+          }
+        },
+        {
+          "id": "shetiphian.multibeds:multibeds:1.9.10@jar",
+          "name": "Multi-Beds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 909820,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/multibeds-forge-1.18.2-1.9.10.jar",
+            "MD5": "551fbaa102470ccbbc8bcbb7f258a7e2"
+          }
+        },
+        {
+          "id": "net.mcreator:openstairs:1.0.0@jar",
+          "name": "OpenStairs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 252129,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/Open%20Stairs%20v1.0%20-%20MC%201.18.2.jar",
+            "MD5": "a589162af8fb8243ee4d720b6bf1666c"
+          }
+        },
+        {
+          "id": "com.duke:orcz:0.80@jar",
+          "name": "Orcz",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2500052,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/Orcz_0.83_1.18.2%20[AI%20FIXES].jar",
+            "MD5": "18f0e1f0df8ef12b0c2d7cf21c089d7f"
+          }
+        },
+        {
+          "id": "me.alphamode.portablecrafting:portable_tables:2.1@jar",
+          "name": "Portable Tables",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 168831,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/portabletables-forge-1.18.2-2.1.jar",
+            "MD5": "ddeab8ad56ceb3d6e3e07a7618536c10"
+          }
+        },
+        {
+          "id": "de.ellpeck:prettypipes:1.12.8@jar",
+          "name": "Pretty Pipes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1731854,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/PrettyPipes-1.12.8.jar",
+            "MD5": "1e7b78603ed8a31f9bc87046b96ba1b3"
+          }
+        },
+        {
+          "id": "net.mcreator.realmrpgskeletons:realmrpg_skeletons:1.0.3@jar",
+          "name": "Realm RPG: Fallen Adventurers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 452729,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/realmrpg_fallen_adventurers_1.0.3_forge_1.18.2.jar",
+            "MD5": "1744d84a66f4be292e91279df80fa54e"
+          }
+        },
+        {
+          "id": "io.github.jamalam360:rightclickharvest:3.2.0+1.18.2-forge@jar",
+          "name": "Right Click Harvest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 65492,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/right-click-harvest-3.2.0+1.18.2-forge.jar",
+            "MD5": "18afdb6c126fe24d3b2877a7e12ea189"
+          }
+        },
+        {
+          "id": "com.lupicus:syp:1.0.9@jar",
+          "name": "Save Your Pets",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 67142,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/SaveYourPets-1.18-1.0.9.jar",
+            "MD5": "9a0d2ffaab1f88cc4b1dc45faea72fef"
+          }
+        },
+        {
+          "id": "com.legacy:scuba_gear:1.0.4@jar",
+          "name": "Scuba Gear",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 57499,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/scuba_gear-1.18.2-1.0.4(1).jar",
+            "MD5": "00e907c4f8968d06da9804a1d769f0b4"
+          }
+        },
+        {
+          "id": "shetiphian.core:shetiphiancore:3.10.18@jar",
+          "name": "ShetiPhian-Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 351748,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/shetiphiancore-forge-1.18.2-3.10.18.jar",
+            "MD5": "ef812450b3094d0fcc630ea3e280df8d"
+          }
+        },
+        {
+          "id": "xyz.przemyk:simpleplanes:1.18.2-5.2.2@jar",
+          "name": "Simple Planes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 669166,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/simpleplanes-1.18.2-5.2.2.jar",
+            "MD5": "3b66fb9e27b1c9a44255e6a198ea6cbc"
+          }
+        },
+        {
+          "id": "crystalspider.torchhit:torchhit:6.0.2.0@jar",
+          "name": "Torch hit!",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2430997,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/torchhit-1.18.2-6.0.2.0-forge.jar",
+            "MD5": "2758ba8133034f789766479ffbfe3b19"
+          }
+        },
+        {
+          "id": "com.mrbysco:trashed:1.1.7@jar",
+          "name": "Trashed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78701,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/Trashed-1.18.1-1.1.7.jar",
+            "MD5": "ce3b3d588bbed58b4fca90f560a4e578"
+          }
+        },
+        {
+          "id": "net.blay09.mods:trashslot:11.0.3@jar",
+          "name": "TrashSlot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 113271,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/trashslot-forge-1.18.2-11.0.3.jar",
+            "MD5": "e1e560b8553df0c9eeb61515800bb5b7"
+          }
+        },
+        {
+          "id": "com.gitlab.cdagaming:unilib:1.0.1@jar",
+          "name": "UniLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 968280,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/UniLib-1.0.1+1.18.2-forge.jar",
+            "MD5": "a71209e77a3717e690e26e8217b7bf91"
+          }
+        },
+        {
+          "id": "generated.forgemod:wolves:with-armor-1.7.1-1.18.2@jar",
+          "name": "Wolves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 161999,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/wolves-with-armor-1.7.1-1.18.2.jar",
+            "MD5": "0923eac49e08ca65d80e5df9fd9ac21a"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimapfair:24.2.0@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1466464,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/optionalon/Xaeros_Minimap_FP24.2.0_Forge_1.18.2.jar",
+            "MD5": "6482ac8edfd9c0aff57350783a68c44e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.39.0@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 927125,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/optionalon/XaerosWorldMap_1.39.0_Forge_1.18.2.jar",
+            "MD5": "75c8548a107ee1659739c47c089e368a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.18.2-Forge-2.2.9@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 301487,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/YungsApi-1.18.2-Forge-2.2.9.jar",
+            "MD5": "ec58ada4e6951d88e0951d9238f4f0c6"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.18.2-Forge-2.1.0@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1024281,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/YungsBetterDungeons-1.18.2-Forge-2.1.0.jar",
+            "MD5": "8926095e9ab377a673f2b00f7952ff9c"
+          }
+        },
+        {
+          "id": "net.mcreator.beartrap:bear_trap:1.0.0@jar",
+          "name": "Bear Trap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119838,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/forgemods/required/zaynens_bear_trap_mod_1.18.2-1.1.jar",
+            "MD5": "aba7aa7c9e46d7e7b139045211c14f6b"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.18.2_HD_U_H9_MOD:0.0.0@jar",
+          "name": "OptiFine_1.18.2_HD_U_H9_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6230778,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Modpack-1.18.2/libraries/OptiFine_1.18.2_HD_U_H9_MOD.jar",
+            "MD5": "21c6621673669bfeab2acc249550bb81"
+          }
         }
       ]
     },
@@ -818,6 +1480,68 @@
               }
             }
           ]
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:0.6.1@jar",
+          "name": "Chat Heads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27442,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Vanilla-1.18.2/forgemods/optionalon/chat_heads-0.6.1-forge-1.18.2.jar",
+            "MD5": "f32370349e4569493b9ff13043b39c0d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mezz.jei:jei:10.2.1.1005@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1085640,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Vanilla-1.18.2/forgemods/optionalon/jei-1.18.2-forge-10.2.1.1005.jar",
+            "MD5": "2ca8e4f60a1f0ff78838a93f5fb8f697"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimapfair:24.2.0@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1466464,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Vanilla-1.18.2/forgemods/optionalon/Xaeros_Minimap_FP24.2.0_Forge_1.18.2.jar",
+            "MD5": "6482ac8edfd9c0aff57350783a68c44e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.39.0@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 927125,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Vanilla-1.18.2/forgemods/optionalon/XaerosWorldMap_1.39.0_Forge_1.18.2.jar",
+            "MD5": "75c8548a107ee1659739c47c089e368a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.18.2_HD_U_H9_MOD:0.0.0@jar",
+          "name": "OptiFine_1.18.2_HD_U_H9_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6230778,
+            "url": "https://launcher-ccb71.web.app/HOST/servers/MundoPVP-Vanilla-1.18.2/libraries/OptiFine_1.18.2_HD_U_H9_MOD.jar",
+            "MD5": "21c6621673669bfeab2acc249550bb81"
+          }
         }
       ]
     }
