@@ -13,7 +13,7 @@
       "description": "MundoPVP-Modpack Running Minecraft 1.18.2 (Forge v40.2.21)",
       "icon": "https://fivtei.github.io/fivteilauncher/icon2.png",
       "version": "1.0.0",
-      "address": "play.mundopvp.com",
+      "address": "lay.teidetech.com",
       "minecraftVersion": "1.18.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1082,7 +1082,7 @@
       "description": "MundoPVP-Vanilla Running Minecraft 1.18.2 (Forge v40.2.21)",
       "icon": "https://fivtei.github.io/fivteilauncher/icon.png",
       "version": "1.0.0",
-      "address": "play.mundopvp.com",
+      "address": "lay.teidetech.com",
       "minecraftVersion": "1.18.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
