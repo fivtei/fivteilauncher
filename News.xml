@@ -18,19 +18,5 @@
 </content:encoded>
 </item>
 </channel>
-<!--   SEGUNDO ANUNCIO   -->
-<!--
-<channel>
-<item>
-<title>CUIDADO CON TU TARJETA!</title> <!--   titulo   -->
-<dc:creator>
-<![CDATA[  ]]>
-</dc:creator>
-<pubDate></pubDate> <!--   CONTENIDO   -->
-<content:encoded>
-<![CDATA[ <p class=" eplus-wrapper">Lugareños de la zona sur del mundo piña han detectado una zona siendo saqueada por poderosos goblins en las instalaciones, la direccion es x=100 y=80 z=2332 acude de inmediato! los lugareños ofrecen una armadura de netherite si vences al mal!.</p> <img src="https://firebasestorage.googleapis.com/v0/b/yokaihardcoreoficial.appspot.com/o/88e8bf04ae400c7ceebeefa5b45ee196.jpg?alt=media&token=02b92c0c-09bc-462e-af65-40c058154ed3" alt="Imagen" width="250" height="250"> ]]>
-</content:encoded>
-</item>
-</channel>
--->
+<!--   FIN ANUNCIO   -->
 </rss>
